@@ -23,6 +23,87 @@ http://176.9.139.53/BeinSportHD10/index.m3u8
 http://176.9.139.53/BeinSportHD11/index.m3u8
 #EXTINF:-1,beINSPORTS 12HD
 http://176.9.139.53/BeinSportHD12/index.m3u8
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3384.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3383.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3382.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3381.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN SPORT 1 FR
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3380.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN SPORT 2 FR
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3379.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,BEIN SPORT 3 FR
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3378.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,ES: Bein La Liga
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3451.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,ES: BEIN SPORT HD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3450.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS 1 HD 720p (VIP)
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3449.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS 2 HD 720p (VIP)
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3448.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS 3 HD (VIP)
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3447.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS 4 EXTRA
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3446.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS MAX 1 EXTRA
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3445.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,TR: beIN SPORTS MAX 2 EXTRA
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3444.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 1
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1158.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 2
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1156.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 3
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1155.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 4
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1154.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 5
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1153.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 6
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1152.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 7
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1151.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 8
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1150.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 9
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1149.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR:BEIN SPORTS 10
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1157.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR SPORT: beIN Sports HD 11 FHD
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5116.ts
+#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+#EXTINF:-1,AR SPORT: beIN Sports HD 12
+http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5115.ts
 #EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/11/Al-Mayadeen.jpg", Al Mayadeen
 http://live.mdn.tv/al-mayadeen/smil:mayadeen.smil/chunklist_w866509900_b1100000.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/752874088348131328/z27OYWkw.jpg", Almanar
@@ -450,6 +531,76 @@ http://extremo01.streamprolive.com/hls/live_high.m3u8
 http://qs1.distream.net:2126/c25_str/canal25/chunklist_w2099711207.m3u8
 #EXTINF:-1,TELEANTILLAS 2
 http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w166413810_DVR.m3u8
+#EXTINF:-1,VIP: AXN SA
+http://mriptv.in:8080/live/alcino/alcino/84526.ts
+#EXTINF:-1,VIP: HBO HD
+http://mriptv.in:8080/live/alcino/alcino/70290.ts
+#EXTINF:-1,VIP: HBO 3 HD
+http://mriptv.in:8080/live/alcino/alcino/64223.ts
+#EXTINF:-1,VIP: HBO 1 HD
+http://mriptv.in:8080/live/alcino/alcino/65138.ts
+#EXTINF:-1,VIP: AKSION HD
+http://mriptv.in:8080/live/alcino/alcino/63480.ts
+#EXTINF:-1,VIP: HORROR HD
+http://mriptv.in:8080/live/alcino/alcino/63485.ts
+#EXTINF:-1,VIP: KOMEDY HD
+http://mriptv.in:8080/live/alcino/alcino/63486.ts
+#EXTINF:-1,VIP: WESTERN HD
+http://mriptv.in:8080/live/alcino/alcino/63479.ts
+#EXTINF:-1,VIP: FANTASY HD
+http://mriptv.in:8080/live/alcino/alcino/63481.ts
+#EXTINF:-1,VIP: FILM Gold 1 HD (AL)
+http://mriptv.in:8080/live/alcino/alcino/63520.ts
+#EXTINF:-1,VIP: FILM Gold 2 HD (AL)
+http://mriptv.in:8080/live/alcino/alcino/63519.ts
+#EXTINF:-1,VIP: FILM Gold 3 HD (AL)
+http://mriptv.in:8080/live/alcino/alcino/63518.ts
+#EXTINF:-1,VIP: FILM GOLD 4 HD (AL)
+http://mriptv.in:8080/live/alcino/alcino/63517.ts
+#EXTINF:-1,VIP: ENGLISH CLUB TV
+http://mriptv.in:8080/live/alcino/alcino/63533.ts
+#EXTINF:-1,VIP: ANIMAL PLANET HD
+http://mriptv.in:8080/live/alcino/alcino/63593.ts
+#EXTINF:-1,VIP: DISCOVERY SHOW CASE
+http://mriptv.in:8080/live/alcino/alcino/63594.ts
+#EXTINF:-1,VIP: DISCOVERY TURBO EXTRA
+http://mriptv.in:8080/live/alcino/alcino/63595.ts
+#EXTINF:-1,VIP: DISCOVERY WORLD
+http://mriptv.in:8080/live/alcino/alcino/63596.ts
+#EXTINF:-1,VIP: DISCOVERY SHED
+http://mriptv.in:8080/live/alcino/alcino/63597.ts
+#EXTINF:-1,VIP: DISCOVERY SCIENCE HD
+http://mriptv.in:8080/live/alcino/alcino/63598.ts
+#EXTINF:-1,VIP: TOM & JERRY
+http://mriptv.in:8080/live/alcino/alcino/63637.ts
+#EXTINF:-1,VIP: MOVIE BOX 3 HD
+http://mriptv.in:8080/live/alcino/alcino/81917.ts
+#EXTINF:-1,VIP: STAR WORLD PREMIERE HD
+http://mriptv.in:8080/live/alcino/alcino/79103.ts
+#EXTINF:-1,VIP: STAR WORLD SA HD
+http://mriptv.in:8080/live/alcino/alcino/79106.ts
+#EXTINF:-1,VIP: Woody Woodpecker HD
+http://mriptv.in:8080/live/alcino/alcino/63618.ts
+#EXTINF:-1,VIP: Star Movies HD
+http://mriptv.in:8080/live/alcino/alcino/70287.ts
+#EXTINF:-1,VIP: Movies Now
+http://mriptv.in:8080/live/alcino/alcino/70291.ts
+#EXTINF:-1,VIP: STAR MOVIES SA HD
+http://mriptv.in:8080/live/alcino/alcino/79104.ts
+#EXTINF:-1,VIP: Movies Plus
+http://mriptv.in:8080/live/alcino/alcino/84527.ts
+#EXTINF:-1,VIP: ROMEDY Now
+http://mriptv.in:8080/live/alcino/alcino/84529.ts
+#EXTINF:-1,VIP: Movies Now 2
+http://mriptv.in:8080/live/alcino/alcino/84530.ts
+#EXTINF:-1,VIP: Star World HD
+http://mriptv.in:8080/live/alcino/alcino/63291.ts
+#EXTINF:-1,VIP: DRAMA HD
+http://mriptv.in:8080/live/alcino/alcino/95456.ts
+#EXTINF:-1,VIP: BOX OFFICE (UK)
+http://mriptv.in:8080/live/alcino/alcino/67180.ts
+#EXTINF:-1,VIP: VIP Gold Drama (AL)
+http://mriptv.in:8080/live/alcino/alcino/63440.ts
 #EXTINF:-1,AR: OSN ART Aflam 2
 http://mriptv.in:8080/live/alcino/alcino/63340.ts
 #EXTINF:-1,AR: OSN ART Cinema
