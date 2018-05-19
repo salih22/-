@@ -23,1056 +23,433 @@ http://176.9.139.53/BeinSportHD10/index.m3u8
 http://176.9.139.53/BeinSportHD11/index.m3u8
 #EXTINF:-1,beINSPORTS 12HD
 http://176.9.139.53/BeinSportHD12/index.m3u8
-#EXTINF:-1,BEIN MOVIES 1 HD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3384.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN MOVIES 2 HD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3383.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN MOVIES 3 HD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3382.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN MOVIES 4 HD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3381.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN SPORT 1 FR
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3380.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN SPORT 2 FR
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3379.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,BEIN SPORT 3 FR
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3378.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,ES: Bein La Liga
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3451.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,ES: BEIN SPORT HD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3450.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS 1 HD 720p (VIP)
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3449.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS 2 HD 720p (VIP)
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3448.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS 3 HD (VIP)
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3447.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS 4 EXTRA
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3446.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS MAX 1 EXTRA
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3445.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,TR: beIN SPORTS MAX 2 EXTRA
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/3444.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 1
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1158.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 2
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1156.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 3
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1155.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 4
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1154.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 5
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1153.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 6
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1152.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 7
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1151.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 8
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1150.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 9
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1149.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR:BEIN SPORTS 10
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/1157.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR SPORT: beIN Sports HD 11 FHD
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5116.ts
-#EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
-#EXTINF:-1,AR SPORT: beIN Sports HD 12
-http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5115.ts
-#EXTINF:-1,SPORT: Fox Sports 1 FHD
-http://mriptv.in:8080/live/alcino/alcino/78319.ts
-#EXTINF:-1,SPORT: Fox Sports 1 HD
-http://mriptv.in:8080/live/alcino/alcino/60410.ts
-#EXTINF:-1,SPORT: Fox Sports 2 FHD
-http://mriptv.in:8080/live/alcino/alcino/78320.ts
-#EXTINF:-1,SPORT: Fox Sports 2 HD
-http://mriptv.in:8080/live/alcino/alcino/60409.ts
-#EXTINF:-1,SPORT: BT Sport 1 FHD
-http://mriptv.in:8080/live/alcino/alcino/94770.ts
-#EXTINF:-1,SPORT: BT Sport 1 HD
-http://mriptv.in:8080/live/alcino/alcino/62225.ts
-#EXTINF:-1,SPORT: BT Sport 2 FHD
-http://mriptv.in:8080/live/alcino/alcino/94771.ts
-#EXTINF:-1,SPORT: BT Sport 2 HD
-http://mriptv.in:8080/live/alcino/alcino/62224.ts
-#EXTINF:-1,SPORT: BT Sport 3 FHD
-http://mriptv.in:8080/live/alcino/alcino/94772.ts
-#EXTINF:-1,SPORT: BT Sport 3 HD
-http://mriptv.in:8080/live/alcino/alcino/62223.ts
-#EXTINF:-1,SPORT: BT Sport ESPN FHD
-http://mriptv.in:8080/live/alcino/alcino/94773.ts
-#EXTINF:-1,SPORT: BT Sport ESPN HD
-http://mriptv.in:8080/live/alcino/alcino/80404.ts
-#EXTINF:-1,SPORT: BT Sport Extra 4
-http://mriptv.in:8080/live/alcino/alcino/96511.ts
-#EXTINF:-1,SPORT: beIN Sports HD 1 FHD
-http://mriptv.in:8080/live/alcino/alcino/88854.ts
-#EXTINF:-1,SPORT: beIN Sports HD 1
-http://mriptv.in:8080/live/alcino/alcino/62753.ts
-#EXTINF:-1,SPORT: beIN Sports HD 2 FHD
-http://mriptv.in:8080/live/alcino/alcino/62752.ts
-#EXTINF:-1,SPORT: beIN Sports HD 2
-http://mriptv.in:8080/live/alcino/alcino/77965.ts
-#EXTINF:-1,SPORT: beIN Sports HD 3 FHD
-http://mriptv.in:8080/live/alcino/alcino/62751.ts
-#EXTINF:-1,SPORT: beIN Sports HD 3
-http://mriptv.in:8080/live/alcino/alcino/77963.ts
-#EXTINF:-1,SPORT: beIN Sports HD 4 FHD
-http://mriptv.in:8080/live/alcino/alcino/62750.ts
-#EXTINF:-1,SPORT: beIN Sports HD 4
-http://mriptv.in:8080/live/alcino/alcino/77961.ts
-#EXTINF:-1,SPORT: beIN Sports HD 5 FHD
-http://mriptv.in:8080/live/alcino/alcino/62749.ts
-#EXTINF:-1,SPORT: beIN Sports HD 5
-http://mriptv.in:8080/live/alcino/alcino/77959.ts
-#EXTINF:-1,SPORT: beIN Sports HD 6 FHD
-http://mriptv.in:8080/live/alcino/alcino/62748.ts
-#EXTINF:-1,SPORT: beIN Sports HD 6
-http://mriptv.in:8080/live/alcino/alcino/77957.ts
-#EXTINF:-1,SPORT: beIN Sports HD 7 FHD
-http://mriptv.in:8080/live/alcino/alcino/62747.ts
-#EXTINF:-1,SPORT: beIN Sports HD 7
-http://mriptv.in:8080/live/alcino/alcino/77955.ts
-#EXTINF:-1,SPORT: beIN Sports HD 8 FHD
-http://mriptv.in:8080/live/alcino/alcino/62746.ts
-#EXTINF:-1,SPORT: beIN Sports HD 8
-http://mriptv.in:8080/live/alcino/alcino/77953.ts
-#EXTINF:-1,SPORT: beIN Sports HD 9 FHD
-http://mriptv.in:8080/live/alcino/alcino/62745.ts
-#EXTINF:-1,SPORT: beIN Sports HD 9
-http://mriptv.in:8080/live/alcino/alcino/77952.ts
-#EXTINF:-1,SPORT: beIN Sports HD 10 FHD
-http://mriptv.in:8080/live/alcino/alcino/62744.ts
-#EXTINF:-1,SPORT: beIN Sports HD 10
-http://mriptv.in:8080/live/alcino/alcino/78936.ts
-#EXTINF:-1,SPORT: beIN Sports HD 11 FHD
-http://mriptv.in:8080/live/alcino/alcino/77950.ts
-#EXTINF:-1,SPORT: beIN Sports HD 11
-http://mriptv.in:8080/live/alcino/alcino/74643.ts
-#EXTINF:-1,SPORT: beIN Sports HD 12 FHD
-http://mriptv.in:8080/live/alcino/alcino/101487.ts
-#EXTINF:-1,SPORT: beIN Sports HD 12
-http://mriptv.in:8080/live/alcino/alcino/62742.ts
-#EXTINF:-1,SPORT: beIN Sports Max 4
-http://mriptv.in:8080/live/alcino/alcino/100284.ts
-#EXTINF:-1,SPORT: beIN Sports Max 5
-http://mriptv.in:8080/live/alcino/alcino/100285.ts
-#EXTINF:-1,SPORT: beIN Sports Max 6
-http://mriptv.in:8080/live/alcino/alcino/100286.ts
-#EXTINF:-1,SPORT: beIN Sports Max 7
-http://mriptv.in:8080/live/alcino/alcino/100287.ts
-#EXTINF:-1,SPORT: beIN Sports Max 8
-http://mriptv.in:8080/live/alcino/alcino/100288.ts
-#EXTINF:-1,SPORT: beIN Sports Max 9
-http://mriptv.in:8080/live/alcino/alcino/100289.ts
-#EXTINF:-1,SPORT: beIN Sports Max 10
-http://mriptv.in:8080/live/alcino/alcino/100290.ts
-#EXTINF:-1,SPORT: beIN Sports News FHD
-http://mriptv.in:8080/live/alcino/alcino/62754.ts
-#EXTINF:-1,SPORT: beIN Sports News HD
-http://mriptv.in:8080/live/alcino/alcino/73319.ts
-#EXTINF:-1,SPORT: Sky Sports Action
-http://mriptv.in:8080/live/alcino/alcino/74496.ts
-#EXTINF:-1,SPORT: Sky Sports HD Action FHD
-http://mriptv.in:8080/live/alcino/alcino/92609.ts
-#EXTINF:-1,SPORT: Sky Sports Arena
-http://mriptv.in:8080/live/alcino/alcino/74495.ts
-#EXTINF:-1,SPORT: Sky Sports HD Arena FHD
-http://mriptv.in:8080/live/alcino/alcino/93234.ts
-#EXTINF:-1,SPORT: Sky Sports Cricket
-http://mriptv.in:8080/live/alcino/alcino/74492.ts
-#EXTINF:-1,SPORT: Sky Sports HD Cricket FHD
-http://mriptv.in:8080/live/alcino/alcino/74772.ts
-#EXTINF:-1,SPORT: Sky Sports F1
-http://mriptv.in:8080/live/alcino/alcino/74497.ts
-#EXTINF:-1,SPORT: Sky Sports HD F1 FHD
-http://mriptv.in:8080/live/alcino/alcino/93228.ts
-#EXTINF:-1,SPORT: Sky Sports Football
-http://mriptv.in:8080/live/alcino/alcino/65085.ts
-#EXTINF:-1,SPORT: Sky Sports HD Football FHD
-http://mriptv.in:8080/live/alcino/alcino/74491.ts
-#EXTINF:-1,SPORT: Sky Sports Golf
-http://mriptv.in:8080/live/alcino/alcino/74770.ts
-#EXTINF:-1,SPORT: Sky Sports HD Golf FHD
-http://mriptv.in:8080/live/alcino/alcino/74500.ts
-#EXTINF:-1,SPORT: Sky Sports Main Event
-http://mriptv.in:8080/live/alcino/alcino/74486.ts
-#EXTINF:-1,SPORT: Sky Sports HD Main Event FHD
-http://mriptv.in:8080/live/alcino/alcino/91444.ts
-#EXTINF:-1,SPORT: Sky Sports Mix
-http://mriptv.in:8080/live/alcino/alcino/98196.ts
-#EXTINF:-1,SPORT: Sky Sports HD Mix FHD
-http://mriptv.in:8080/live/alcino/alcino/93462.ts
-#EXTINF:-1,SPORT: Sky Sports News
-http://mriptv.in:8080/live/alcino/alcino/91401.ts
-#EXTINF:-1,SPORT: Sky Sports News FHD
-http://mriptv.in:8080/live/alcino/alcino/74481.ts
-#EXTINF:-1,SPORT: Sky Sports HD Premier League
-http://mriptv.in:8080/live/alcino/alcino/65083.ts
-#EXTINF:-1,SPORT: Sky Sports HD Premier League FHD
-http://mriptv.in:8080/live/alcino/alcino/93080.ts
-#EXTINF:-1,SPORT: AFN Sports 1 HD
-http://mriptv.in:8080/live/alcino/alcino/100724.ts
-#EXTINF:-1,SPORT: AFN Sports 2 HD
-http://mriptv.in:8080/live/alcino/alcino/100725.ts
-#EXTINF:-1,SPORT: BOX NATION HD
-http://mriptv.in:8080/live/alcino/alcino/74518.ts
-#EXTINF:-1,SPORT: Chelsea FC HD (UK)
-http://mriptv.in:8080/live/alcino/alcino/65020.ts
-#EXTINF:-1,SPORT: EirSport 1 HD
-http://mriptv.in:8080/live/alcino/alcino/65068.ts
-#EXTINF:-1,SPORT: EirSport 2 HD
-http://mriptv.in:8080/live/alcino/alcino/65067.ts
-#EXTINF:-1,SPORT: Eleven Sports 2 HD
-http://mriptv.in:8080/live/alcino/alcino/65064.ts
-#EXTINF:-1,SPORT: Eleven Sports 4 HD
-http://mriptv.in:8080/live/alcino/alcino/66079.ts
-#EXTINF:-1,SPORT: Eurosport 1 HD
-http://mriptv.in:8080/live/alcino/alcino/65014.ts
-#EXTINF:-1,SPORT: Eurosport 2 HD
-http://mriptv.in:8080/live/alcino/alcino/64985.ts
-#EXTINF:-1,SPORT: Flow Sports 1 HD
-http://mriptv.in:8080/live/alcino/alcino/74941.ts
-#EXTINF:-1,SPORT: Manchester United FC FHD
-http://mriptv.in:8080/live/alcino/alcino/64982.ts
-#EXTINF:-1,SPORT: Setanta Ire
-http://mriptv.in:8080/live/alcino/alcino/99942.ts
-#EXTINF:-1,SPORT: SkyNet Sports 1
-http://mriptv.in:8080/live/alcino/alcino/74627.ts
-#EXTINF:-1,SPORT: SkyNet Sports 2 MY (UK)
-http://mriptv.in:8080/live/alcino/alcino/74628.ts
-#EXTINF:-1,SPORT: SkyNet Sports 3 MY (UK)
-http://mriptv.in:8080/live/alcino/alcino/74629.ts
-#EXTINF:-1,SPORT: SkyNet Sports 4 MY (UK)
-http://mriptv.in:8080/live/alcino/alcino/74630.ts
-#EXTINF:-1,SPORT: SkyNet Sports 5 MY (UK)
-http://mriptv.in:8080/live/alcino/alcino/74631.ts
-#EXTINF:-1,SPORT: SkyNet Sports 6 MY (UK)
-http://mriptv.in:8080/live/alcino/alcino/74632.ts
-#EXTINF:-1,SPORT: STAR SPORTS SELECT 1 HD
-http://mriptv.in:8080/live/alcino/alcino/79608.ts
-#EXTINF:-1,SPORT: STAR SPORTS SELECT 2 HD
-http://mriptv.in:8080/live/alcino/alcino/79609.ts
-#EXTINF:-1,SPORT: Willow HD (US)
-http://mriptv.in:8080/live/alcino/alcino/95366.ts
-#EXTINF:-1,FR: beIN Sports 4 MAX
-http://mriptv.in:8080/live/alcino/alcino/65672.ts
-#EXTINF:-1,FR: beIN Sports 5 MAX
-http://mriptv.in:8080/live/alcino/alcino/65671.ts
-#EXTINF:-1,FR: beIN Sports 6 MAX HD
-http://mriptv.in:8080/live/alcino/alcino/65670.ts
-#EXTINF:-1,FR: beIN Sports 7 MAX
-http://mriptv.in:8080/live/alcino/alcino/65669.ts
-#EXTINF:-1,FR: beIN Sports 8 MAX
-http://mriptv.in:8080/live/alcino/alcino/65668.ts
-#EXTINF:-1,FR: beIN Sports 9 MAX
-http://mriptv.in:8080/live/alcino/alcino/65667.ts
-#EXTINF:-1,FR: beIN Sports 10 MAX
-http://mriptv.in:8080/live/alcino/alcino/65666.ts
-#EXTINF:-1,FR: beIN Sports HD 1
-http://mriptv.in:8080/live/alcino/alcino/62337.ts
-#EXTINF:-1,FR: beIN Sports HD 2
-http://mriptv.in:8080/live/alcino/alcino/62336.ts
-#EXTINF:-1,FR: beIN Sports HD 2 FHD
-http://mriptv.in:8080/live/alcino/alcino/101721.ts
-#EXTINF:-1,FR: beIN Sports HD 3
-http://mriptv.in:8080/live/alcino/alcino/62335.ts
-#EXTINF:-1,FR: beIN Sports Max 4 HD
-http://mriptv.in:8080/live/alcino/alcino/93253.ts
-#EXTINF:-1,FR: beIN Sports Max 5 HD
-http://mriptv.in:8080/live/alcino/alcino/93254.ts
-#EXTINF:-1,FR: beIN Sports Max 6
-http://mriptv.in:8080/live/alcino/alcino/93256.ts
-#EXTINF:-1,FR: beIN Sports Max 7 HD
-http://mriptv.in:8080/live/alcino/alcino/93257.ts
-#EXTINF:-1,FR: beIN Sports Max 8 HD
-http://mriptv.in:8080/live/alcino/alcino/93255.ts
-#EXTINF:-1,FR: beIN Sports MAX 9
-http://mriptv.in:8080/live/alcino/alcino/98139.ts
-#EXTINF:-1,FR: beIN Sports MAX 10
-http://mriptv.in:8080/live/alcino/alcino/98140.ts
-#EXTINF:-1,Spo| Abu dhabi sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/79.ts
-#EXTINF:-1,Spo| Abu dhabi sport 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/865.ts
-#EXTINF:-1,Spo| Al haddaf tv algerie
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/966.ts
-#EXTINF:-1,Spo| Al kass 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12675.ts
-#EXTINF:-1,Spo| Al kass 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12676.ts
-#EXTINF:-1,Spo| Al kass 4
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12677.ts
-#EXTINF:-1,Spo| C plus liga 2 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5073.ts
-#EXTINF:-1,Spo| C plus liga hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5071.ts
-#EXTINF:-1,Spo| Canal Sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20164.ts
-#EXTINF:-1,Spo| Canal estrenos
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5090.ts
-#EXTINF:-1,Spo| Canal golf
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5085.ts
-#EXTINF:-1,Spo| Canal plus sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/916.ts
-#EXTINF:-1,Spo| Dmc sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12773.ts
-#EXTINF:-1,Spo| Dubai racing 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/927.ts
-#EXTINF:-1,Spo| Dubai sport 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/274.ts
-#EXTINF:-1,Spo| Dubai sport 4
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/839.ts
-#EXTINF:-1,Spo| Dubai sports channel
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/1007.ts
-#EXTINF:-1,Spo| Eir sport 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12903.ts
-#EXTINF:-1,Spo| Eir sports 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12904.ts
-#EXTINF:-1,Spo| Equidia
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/803.ts
-#EXTINF:-1,Spo| EuroSport FR HD 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/915.ts
-#EXTINF:-1,Spo| EuroSport FR HD 02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/905.ts
-#EXTINF:-1,Spo| EuroSport UK 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12905.ts
-#EXTINF:-1,Spo| EuroSport UK  02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12906.ts
-#EXTINF:-1,Spo| Eurosport1 espagne
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6064.ts
-#EXTINF:-1,Spo| Eurosprot1 de
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13072.ts
-#EXTINF:-1,Spo| Eurosprot2 de
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13073.ts
-#EXTINF:-1,Spo| Extreme SPORTS
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20165.ts
-#EXTINF:-1,Spo| Foot plus hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/903.ts
-#EXTINF:-1,Spo| Fox sports
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12910.ts
-#EXTINF:-1,Spo| Fox sports 2 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12911.ts
-#EXTINF:-1,Spo| Golf plus
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/1027.ts
-#EXTINF:-1,Spo| Infosport fr
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7009.ts
-#EXTINF:-1,Spo| Jordan sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/841.ts
-#EXTINF:-1,Spo| Kuwait sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/887.ts
-#EXTINF:-1,Spo| Mio sports
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12926.ts
-#EXTINF:-1,Spo| Motorsport TV
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20166.ts
-#EXTINF:-1,Spo| Movistar f1 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5078.ts
-#EXTINF:-1,Spo| Movistar motogp hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/5076.ts
-#EXTINF:-1,Spo| Nile sport
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/134.ts
-#EXTINF:-1,Spo| Osn sport 1 action hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12830.ts
-#EXTINF:-1,Spo| Osn sport 2 action hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12831.ts
-#EXTINF:-1,Spo| Osn sports 3 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12832.ts
-#EXTINF:-1,Spo| Osn sports 4 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12833.ts
-#EXTINF:-1,Spo| Premier sports
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12949.ts
-#EXTINF:-1,Spo| Rai sport 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6015.ts
-#EXTINF:-1,Spo| Rai sport 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6016.ts
-#EXTINF:-1,Spo| Setanta sports
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12951.ts
-#EXTINF:-1,Spo| Setanta sports ireland
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12952.ts
-#EXTINF:-1,Spo| Sfr sport 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20163.ts
-#EXTINF:-1,Spo| Sfr sport 02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/8007.ts
-#EXTINF:-1,Spo| Sfr sport 03
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/8008.ts
-#EXTINF:-1,Spo| Sfr sport 05
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20162.ts
-#EXTINF:-1,Spo| Sky bt sport 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12954.ts
-#EXTINF:-1,Spo| Sky bt sport 1 fullhd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12955.ts
-#EXTINF:-1,Spo| Sky bt sport 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12956.ts
-#EXTINF:-1,Spo| Sky bt sport 2 fullhd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12957.ts
-#EXTINF:-1,Spo| Sky bt sport 3
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12958.ts
-#EXTINF:-1,Spo| Sky bt sport 3 fullhd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12959.ts
-#EXTINF:-1,Spo| Sky bt sport europe hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12960.ts
-#EXTINF:-1,Spo| Sky bt sport extra 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12961.ts
-#EXTINF:-1,Spo| Sky bt sport extra 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12962.ts
-#EXTINF:-1,Spo| Sky bt sport extra 3
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12963.ts
-#EXTINF:-1,Spo| Sky bt sport extra 4
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12964.ts
-#EXTINF:-1,Spo| Sky bt sport extra 5
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12965.ts
-#EXTINF:-1,Spo| Sky bt sport sppn
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12966.ts
-#EXTINF:-1,Spo| Sky sport 1 hd de
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13091.ts
-#EXTINF:-1,Spo| Sky sport 2 hd de
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13092.ts
-#EXTINF:-1,Spo| Sky sport f1 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6034.ts
-#EXTINF:-1,Spo| Sky sport2 it hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6036.ts
-#EXTINF:-1,Spo| Sky sport3 it hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/6037.ts
-#EXTINF:-1,Spo| Sky sports 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12979.ts
-#EXTINF:-1,Spo| Sky sports 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12980.ts
-#EXTINF:-1,Spo| Sky sports 3
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12981.ts
-#EXTINF:-1,Spo| Sky sports 4
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12982.ts
-#EXTINF:-1,Spo| Sky sports 5
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12983.ts
-#EXTINF:-1,Spo| Sky sports box office
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12984.ts
-#EXTINF:-1,Spo| Sky sports f1 hd
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12985.ts
-#EXTINF:-1,Spo| Sky sports news
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12986.ts
-#EXTINF:-1,Spo| Sport1 de
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13093.ts
-#EXTINF:-1,Bn| Bein sport fr 1
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/507.ts
-#EXTINF:-1,Bn| Bein sport fr 2
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/508.ts
-#EXTINF:-1,Bn| Bein sport fr 3
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/509.ts
-#EXTINF:-1,Bn| Bein Sport Max 04
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20137.ts
-#EXTINF:-1,Bn| Bein Sport Max 05
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20138.ts
-#EXTINF:-1,Bn| Bein Sport Max 06
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20139.ts
-#EXTINF:-1,Bn| Bein Sport Max 07
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20140.ts
-#EXTINF:-1,Bn| Bein Sport Max 08
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20141.ts
-#EXTINF:-1,Bn| Bein Sport Max 09
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20142.ts
-#EXTINF:-1,Bn| Bein Sport Max 10
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/20143.ts
-#EXTINF:-1,Bn| Bein Sport FHD 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13672.ts
-#EXTINF:-1,Bn| Bein Sport FHD 02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13673.ts
-#EXTINF:-1,Bn| Bein Sport FHD 03
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13674.ts
-#EXTINF:-1,Bn| Bein Sport FHD 04
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13675.ts
-#EXTINF:-1,Bn| Bein Sport FHD 05
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13676.ts
-#EXTINF:-1,Bn| Bein Sport FHD 06
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13677.ts
-#EXTINF:-1,Bn| Bein Sport FHD 07
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13678.ts
-#EXTINF:-1,Bn| Bein Sport FHD 08
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13679.ts
-#EXTINF:-1,Bn| Bein Sport FHD 09
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13680.ts
-#EXTINF:-1,Bn| Bein Sport FHD 10
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13681.ts
-#EXTINF:-1,Bn| Bein sport 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7052.ts
-#EXTINF:-1,Bn| Bein sport 02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7053.ts
-#EXTINF:-1,Bn| Bein sport 03
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7054.ts
-#EXTINF:-1,Bn| Bein sport 04
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7055.ts
-#EXTINF:-1,Bn| Bein sport 05
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7056.ts
-#EXTINF:-1,Bn| Bein sport 06
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7057.ts
-#EXTINF:-1,Bn| Bein sport 07
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7058.ts
-#EXTINF:-1,Bn| Bein sport 08
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7059.ts
-#EXTINF:-1,Bn| Bein sport 09
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7060.ts
-#EXTINF:-1,Bn| Bein sport 10
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7061.ts
-#EXTINF:-1,Bn| Bein sport 11
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/7062.ts
-#EXTINF:-1,Bn| Bein sport hd 01
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/12.ts
-#EXTINF:-1,Bn| Bein sport hd 02
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13682.ts
-#EXTINF:-1,Bn| Bein sport hd 03
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/14.ts
-#EXTINF:-1,Bn| Bein sport hd 04
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/867.ts
-#EXTINF:-1,Bn| Bein sport hd 05
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/864.ts
-#EXTINF:-1,Bn| Bein sport hd 06
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/911.ts
-#EXTINF:-1,Bn| Bein sport hd 07
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/912.ts
-#EXTINF:-1,Bn| Bein sport hd 08
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/874.ts
-#EXTINF:-1,Bn| Bein sport hd 09
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/873.ts
-#EXTINF:-1,Bn| Bein sport hd 10
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13683.ts
-#EXTINF:-1,Bn| Bein sport hd 11
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/866.ts
-#EXTINF:-1,Bn| Bein sport hd 12
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13684.ts
-#EXTINF:-1,Bn| Bein sport hd 13
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/13685.ts
-#EXTINF:-1,Bn| Bein sport hd 14
-http://fserver.yellowiptv.com:80/live/hls/b3eed8b3bd/869.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD
-http://p3x.eu:8080/live/aykut54/aykut54/1.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD.265.HVEC
-http://p3x.eu:8080/live/aykut54/aykut54/234.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD 4K UHD
-http://p3x.eu:8080/live/aykut54/aykut54/9315.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD 1080 p
-http://p3x.eu:8080/live/aykut54/aykut54/8656.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD 720 p
-http://p3x.eu:8080/live/aykut54/aykut54/8655.ts
-#EXTINF:-1,TR | beIN SPORTS 1 SD
-http://p3x.eu:8080/live/aykut54/aykut54/8654.ts
-#EXTINF:-1,TR | beIN SPORTS 1 HD MOBILE
-http://p3x.eu:8080/live/aykut54/aykut54/8604.ts
-#EXTINF:-1,TR | beIN SPORTS 2 HD
-http://p3x.eu:8080/live/aykut54/aykut54/2.ts
-#EXTINF:-1,TR | beIN SPORTS 2 SD
-http://p3x.eu:8080/live/aykut54/aykut54/10226.ts
-#EXTINF:-1,TR | beIN SPORTS 3 HD
-http://p3x.eu:8080/live/aykut54/aykut54/3.ts
-#EXTINF:-1,TR | beIN SPORTS 3 SD
-http://p3x.eu:8080/live/aykut54/aykut54/10227.ts
-#EXTINF:-1,TR | beIN SPORTS 4 HD
-http://p3x.eu:8080/live/aykut54/aykut54/308.ts
-#EXTINF:-1,TR | beIN SPORTS MAX HD
-http://p3x.eu:8080/live/aykut54/aykut54/8565.ts
-#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
-http://p3x.eu:8080/live/aykut54/aykut54/8566.ts
-#EXTINF:-1,TR | beIN SPORTS  HD HABER
-http://p3x.eu:8080/live/aykut54/aykut54/9197.ts
-#EXTINF:-1,TR | SMART SPORT HD
-http://p3x.eu:8080/live/aykut54/aykut54/10.ts
-#EXTINF:-1,TR | S SPORT HD
-http://p3x.eu:8080/live/aykut54/aykut54/11.ts
-#EXTINF:-1,TR | Tivibu Spor 1 HD
-http://p3x.eu:8080/live/aykut54/aykut54/210.ts
-#EXTINF:-1,TR | Tivibu Spor 2 HD
-http://p3x.eu:8080/live/aykut54/aykut54/211.ts
-#EXTINF:-1,TR | Tivibu Spor 3 HD
-http://p3x.eu:8080/live/aykut54/aykut54/212.ts
-#EXTINF:-1,TR | Tivibu Spor 4 HD
-http://p3x.eu:8080/live/aykut54/aykut54/213.ts
-#EXTINF:-1,TR | TIVIBU SPOR 5 HD
-http://p3x.eu:8080/live/aykut54/aykut54/10676.ts
-#EXTINF:-1,TR | EUROSPORT 1 HD (FILBOX )
-http://p3x.eu:8080/live/aykut54/aykut54/17.ts
-#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://p3x.eu:8080/live/aykut54/aykut54/30.ts
-#EXTINF:-1,TR | NBA-TV-HD
-http://p3x.eu:8080/live/aykut54/aykut54/12.ts
-#EXTINF:-1,TR | D MAX
-http://p3x.eu:8080/live/aykut54/aykut54/80.ts
-#EXTINF:-1,TR I BURSA SPOR TV
-http://p3x.eu:8080/live/aykut54/aykut54/10628.ts
-#EXTINF:-1,TR | BJK TV
-http://p3x.eu:8080/live/aykut54/aykut54/190.ts
-#EXTINF:-1,TR | GALATASARAY TV
-http://p3x.eu:8080/live/aykut54/aykut54/129.ts
-#EXTINF:-1,TR | FENERBAHCE TV
-http://p3x.eu:8080/live/aykut54/aykut54/119.ts
-#EXTINF:-1,TR | SPORST TV
-http://p3x.eu:8080/live/aykut54/aykut54/120.ts
-#EXTINF:-1,TR | ASPOR HD
-http://p3x.eu:8080/live/aykut54/aykut54/57.ts
-#EXTINF:-1,TR | TRT 3 SPOR HD
-http://p3x.eu:8080/live/aykut54/aykut54/294.ts
-#EXTINF:-1,TR | TRT SPOR HD
-http://p3x.eu:8080/live/aykut54/aykut54/55.ts
-#EXTINF:-1,TR I TAY TV
-http://p3x.eu:8080/live/aykut54/aykut54/147.ts
-#EXTINF:-1,BEIN SPORT 1 FR
-http://p3x.eu:8080/live/aykut54/aykut54/9174.ts
-#EXTINF:-1,BEIN SPORT 2 FR
-http://p3x.eu:8080/live/aykut54/aykut54/9173.ts
-#EXTINF:-1,BEIN SPORT 3 FR
-http://p3x.eu:8080/live/aykut54/aykut54/9172.ts
-#EXTINF:-1,AR|BEIN 1 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9169.ts
-#EXTINF:-1,AR|BEIN 2 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9168.ts
-#EXTINF:-1,AR|BEIN 3 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9167.ts
-#EXTINF:-1,AR|BEIN 4 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9166.ts
-#EXTINF:-1,AR|BEIN 5 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9165.ts
-#EXTINF:-1,AR|BEIN 6 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9164.ts
-#EXTINF:-1,AR|BEIN 7 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9163.ts
-#EXTINF:-1,AR|BEIN 8 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9162.ts
-#EXTINF:-1,AR|BEIN 9 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9161.ts
-#EXTINF:-1,AR|BEIN 10 HD
-http://p3x.eu:8080/live/aykut54/aykut54/9160.ts
-#EXTINF:-1,FR Eurosport 1
-http://p3x.eu:8080/live/aykut54/aykut54/9171.ts
-#EXTINF:-1,FR Eurosport 2
-http://p3x.eu:8080/live/aykut54/aykut54/9170.ts
-#EXTINF:-1,ARENA SPORT 1 HR
-http://p3x.eu:8080/live/aykut54/aykut54/9154.ts
-#EXTINF:-1,ARENA SPORT 2 HR
-http://p3x.eu:8080/live/aykut54/aykut54/9153.ts
-#EXTINF:-1,ARENA SPORT 3 HR
-http://p3x.eu:8080/live/aykut54/aykut54/9152.ts
-#EXTINF:-1,ARENA SPORT 4 HR
-http://p3x.eu:8080/live/aykut54/aykut54/9151.ts
-#EXTINF:-1,Spo| Abu dhabi sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/79.ts
-#EXTINF:-1,Spo| Abu dhabi sport 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/865.ts
-#EXTINF:-1,Spo| Al haddaf tv algerie
-http://185.2.83.231:80/live/hls/b3eed8b3bd/966.ts
-#EXTINF:-1,Spo| Al kass 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12675.ts
-#EXTINF:-1,Spo| Al kass 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12676.ts
-#EXTINF:-1,Spo| Al kass 4
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12677.ts
-#EXTINF:-1,Spo| C plus liga 2 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5073.ts
-#EXTINF:-1,Spo| C plus liga hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5071.ts
-#EXTINF:-1,Spo| Canal Sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20164.ts
-#EXTINF:-1,Spo| Canal estrenos
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5090.ts
-#EXTINF:-1,Spo| Canal golf
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5085.ts
-#EXTINF:-1,Spo| Canal plus sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/916.ts
-#EXTINF:-1,Spo| Dmc sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12773.ts
-#EXTINF:-1,Spo| Dubai racing 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/927.ts
-#EXTINF:-1,Spo| Dubai sport 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/274.ts
-#EXTINF:-1,Spo| Dubai sport 4
-http://185.2.83.231:80/live/hls/b3eed8b3bd/839.ts
-#EXTINF:-1,Spo| Dubai sports channel
-http://185.2.83.231:80/live/hls/b3eed8b3bd/1007.ts
-#EXTINF:-1,Spo| Eir sport 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12903.ts
-#EXTINF:-1,Spo| Eir sports 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12904.ts
-#EXTINF:-1,Spo| Equidia
-http://185.2.83.231:80/live/hls/b3eed8b3bd/803.ts
-#EXTINF:-1,Spo| EuroSport FR HD 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/915.ts
-#EXTINF:-1,Spo| EuroSport FR HD 02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/905.ts
-#EXTINF:-1,Spo| EuroSport UK 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12905.ts
-#EXTINF:-1,Spo| EuroSport UK  02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12906.ts
-#EXTINF:-1,Spo| Eurosport1 espagne
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6064.ts
-#EXTINF:-1,Spo| Eurosprot1 de
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13072.ts
-#EXTINF:-1,Spo| Eurosprot2 de
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13073.ts
-#EXTINF:-1,Spo| Extreme SPORTS
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20165.ts
-#EXTINF:-1,Spo| Foot plus hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/903.ts
-#EXTINF:-1,Spo| Fox sports
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12910.ts
-#EXTINF:-1,Spo| Fox sports 2 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12911.ts
-#EXTINF:-1,Spo| Golf plus
-http://185.2.83.231:80/live/hls/b3eed8b3bd/1027.ts
-#EXTINF:-1,Spo| Infosport fr
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7009.ts
-#EXTINF:-1,Spo| Jordan sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/841.ts
-#EXTINF:-1,Spo| Kuwait sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/887.ts
-#EXTINF:-1,Spo| Mio sports
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12926.ts
-#EXTINF:-1,Spo| Motorsport TV
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20166.ts
-#EXTINF:-1,Spo| Movistar f1 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5078.ts
-#EXTINF:-1,Spo| Movistar motogp hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/5076.ts
-#EXTINF:-1,Spo| Nile sport
-http://185.2.83.231:80/live/hls/b3eed8b3bd/134.ts
-#EXTINF:-1,Spo| Osn sport 1 action hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12830.ts
-#EXTINF:-1,Spo| Osn sport 2 action hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12831.ts
-#EXTINF:-1,Spo| Osn sports 3 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12832.ts
-#EXTINF:-1,Spo| Osn sports 4 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12833.ts
-#EXTINF:-1,Spo| Premier sports
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12949.ts
-#EXTINF:-1,Spo| Rai sport 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6015.ts
-#EXTINF:-1,Spo| Rai sport 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6016.ts
-#EXTINF:-1,Spo| Setanta sports
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12951.ts
-#EXTINF:-1,Spo| Setanta sports ireland
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12952.ts
-#EXTINF:-1,Spo| Sfr sport 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20163.ts
-#EXTINF:-1,Spo| Sfr sport 02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/8007.ts
-#EXTINF:-1,Spo| Sfr sport 03
-http://185.2.83.231:80/live/hls/b3eed8b3bd/8008.ts
-#EXTINF:-1,Spo| Sfr sport 05
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20162.ts
-#EXTINF:-1,Spo| Sky bt sport 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12954.ts
-#EXTINF:-1,Spo| Sky bt sport 1 fullhd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12955.ts
-#EXTINF:-1,Spo| Sky bt sport 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12956.ts
-#EXTINF:-1,Spo| Sky bt sport 2 fullhd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12957.ts
-#EXTINF:-1,Spo| Sky bt sport 3
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12958.ts
-#EXTINF:-1,Spo| Sky bt sport 3 fullhd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12959.ts
-#EXTINF:-1,Spo| Sky bt sport europe hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12960.ts
-#EXTINF:-1,Spo| Sky bt sport extra 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12961.ts
-#EXTINF:-1,Spo| Sky bt sport extra 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12962.ts
-#EXTINF:-1,Spo| Sky bt sport extra 3
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12963.ts
-#EXTINF:-1,Spo| Sky bt sport extra 4
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12964.ts
-#EXTINF:-1,Spo| Sky bt sport extra 5
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12965.ts
-#EXTINF:-1,Spo| Sky bt sport sppn
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12966.ts
-#EXTINF:-1,Spo| Sky sport 1 hd de
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13091.ts
-#EXTINF:-1,Spo| Sky sport 2 hd de
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13092.ts
-#EXTINF:-1,Spo| Sky sport f1 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6034.ts
-#EXTINF:-1,Spo| Sky sport2 it hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6036.ts
-#EXTINF:-1,Spo| Sky sport3 it hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/6037.ts
-#EXTINF:-1,Spo| Sky sports 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12979.ts
-#EXTINF:-1,Spo| Sky sports 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12980.ts
-#EXTINF:-1,Spo| Sky sports 3
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12981.ts
-#EXTINF:-1,Spo| Sky sports 4
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12982.ts
-#EXTINF:-1,Spo| Sky sports 5
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12983.ts
-#EXTINF:-1,Spo| Sky sports box office
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12984.ts
-#EXTINF:-1,Spo| Sky sports f1 hd
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12985.ts
-#EXTINF:-1,Spo| Sky sports news
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12986.ts
-#EXTINF:-1,Spo| Sport1 de
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13093.ts
-#EXTINF:-1,Bn| Bein sport fr 1
-http://185.2.83.231:80/live/hls/b3eed8b3bd/507.ts
-#EXTINF:-1,Bn| Bein sport fr 2
-http://185.2.83.231:80/live/hls/b3eed8b3bd/508.ts
-#EXTINF:-1,Bn| Bein sport fr 3
-http://185.2.83.231:80/live/hls/b3eed8b3bd/509.ts
-#EXTINF:-1,Bn| Bein Sport Max 04
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20137.ts
-#EXTINF:-1,Bn| Bein Sport Max 05
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20138.ts
-#EXTINF:-1,Bn| Bein Sport Max 06
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20139.ts
-#EXTINF:-1,Bn| Bein Sport Max 07
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20140.ts
-#EXTINF:-1,Bn| Bein Sport Max 08
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20141.ts
-#EXTINF:-1,Bn| Bein Sport Max 09
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20142.ts
-#EXTINF:-1,Bn| Bein Sport Max 10
-http://185.2.83.231:80/live/hls/b3eed8b3bd/20143.ts
-#EXTINF:-1,Bn| Bein Sport FHD 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13672.ts
-#EXTINF:-1,Bn| Bein Sport FHD 02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13673.ts
-#EXTINF:-1,Bn| Bein Sport FHD 03
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13674.ts
-#EXTINF:-1,Bn| Bein Sport FHD 04
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13675.ts
-#EXTINF:-1,Bn| Bein Sport FHD 05
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13676.ts
-#EXTINF:-1,Bn| Bein Sport FHD 06
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13677.ts
-#EXTINF:-1,Bn| Bein Sport FHD 07
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13678.ts
-#EXTINF:-1,Bn| Bein Sport FHD 08
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13679.ts
-#EXTINF:-1,Bn| Bein Sport FHD 09
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13680.ts
-#EXTINF:-1,Bn| Bein Sport FHD 10
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13681.ts
-#EXTINF:-1,Bn| Bein sport 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7052.ts
-#EXTINF:-1,Bn| Bein sport 02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7053.ts
-#EXTINF:-1,Bn| Bein sport 03
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7054.ts
-#EXTINF:-1,Bn| Bein sport 04
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7055.ts
-#EXTINF:-1,Bn| Bein sport 05
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7056.ts
-#EXTINF:-1,Bn| Bein sport 06
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7057.ts
-#EXTINF:-1,Bn| Bein sport 07
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7058.ts
-#EXTINF:-1,Bn| Bein sport 08
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7059.ts
-#EXTINF:-1,Bn| Bein sport 09
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7060.ts
-#EXTINF:-1,Bn| Bein sport 10
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7061.ts
-#EXTINF:-1,Bn| Bein sport 11
-http://185.2.83.231:80/live/hls/b3eed8b3bd/7062.ts
-#EXTINF:-1,Bn| Bein sport hd 01
-http://185.2.83.231:80/live/hls/b3eed8b3bd/12.ts
-#EXTINF:-1,Bn| Bein sport hd 02
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13682.ts
-#EXTINF:-1,Bn| Bein sport hd 03
-http://185.2.83.231:80/live/hls/b3eed8b3bd/14.ts
-#EXTINF:-1,Bn| Bein sport hd 04
-http://185.2.83.231:80/live/hls/b3eed8b3bd/867.ts
-#EXTINF:-1,Bn| Bein sport hd 05
-http://185.2.83.231:80/live/hls/b3eed8b3bd/864.ts
-#EXTINF:-1,Bn| Bein sport hd 06
-http://185.2.83.231:80/live/hls/b3eed8b3bd/911.ts
-#EXTINF:-1,Bn| Bein sport hd 07
-http://185.2.83.231:80/live/hls/b3eed8b3bd/912.ts
-#EXTINF:-1,Bn| Bein sport hd 08
-http://185.2.83.231:80/live/hls/b3eed8b3bd/874.ts
-#EXTINF:-1,Bn| Bein sport hd 09
-http://185.2.83.231:80/live/hls/b3eed8b3bd/873.ts
-#EXTINF:-1,Bn| Bein sport hd 10
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13683.ts
-#EXTINF:-1,Bn| Bein sport hd 11
-http://185.2.83.231:80/live/hls/b3eed8b3bd/866.ts
-#EXTINF:-1,Bn| Bein sport hd 12
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13684.ts
-#EXTINF:-1,Bn| Bein sport hd 13
-http://185.2.83.231:80/live/hls/b3eed8b3bd/13685.ts
-#EXTINF:-1,Bn| Bein sport hd 14
-http://185.2.83.231:80/live/hls/b3eed8b3bd/869.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/27826.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/21727.ts
-#EXTINF:-1,NFL NETWORK .
-http://s1.electru.biz:8080/live/shorty123/shorty123/27792.ts
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://s1.electru.biz:8080/live/shorty123/shorty123/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://s1.electru.biz:8080/live/shorty123/shorty123/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://s1.electru.biz:8080/live/shorty123/shorty123/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://s1.electru.biz:8080/live/shorty123/shorty123/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://s1.electru.biz:8080/live/shorty123/shorty123/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://s1.electru.biz:8080/live/shorty123/shorty123/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://s1.electru.biz:8080/live/shorty123/shorty123/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://s1.electru.biz:8080/live/shorty123/shorty123/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://s1.electru.biz:8080/live/shorty123/shorty123/30075.ts
-#EXTINF:-1,SKY FOOTBALL
-http://s1.electru.biz:8080/live/shorty123/shorty123/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/21736.ts
-#EXTINF:-1,BT SPORTS 3 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/21734.ts
-#EXTINF:-1,BT SPORT ESPN
-http://s1.electru.biz:8080/live/shorty123/shorty123/21731.ts
-#EXTINF:-1,BT SPORT MOSAIC
-http://s1.electru.biz:8080/live/shorty123/shorty123/21729.ts
-#EXTINF:-1,BT SPORT EXTRA
-http://s1.electru.biz:8080/live/shorty123/shorty123/21730.ts
-#EXTINF:-1,Sports : NFL REDZONE HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/30681.ts
-#EXTINF:-1,BEIN SPORTS 1HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31977.ts
-#EXTINF:-1,BEIN SPORTS 2HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31318.ts
-#EXTINF:-1,BEIN SPORTS 3HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31317.ts
-#EXTINF:-1,BEIN SPORTS 4HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31316.ts
-#EXTINF:-1,BEIN SPORTS 5HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31315.ts
-#EXTINF:-1,BEIN SPORTS 6HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31314.ts
-#EXTINF:-1,BEIN SPORTS 7HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31313.ts
-#EXTINF:-1,BEIN SPORTS 8HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31312.ts
-#EXTINF:-1,BEIN SPORTS 9HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31311.ts
-#EXTINF:-1,BEIN SPORTS 10HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31310.ts
-#EXTINF:-1,AR: BEIN SPORTS 11HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/31309.ts
-#EXTINF:-1,SPORTS | JIO CRICKET ENGLISH HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51029.ts
-#EXTINF:-1,SPORTS | NEO PRIME
-http://s1.electru.biz:8080/live/shorty123/shorty123/51032.ts
-#EXTINF:-1,SPORTS | NEO SPORTS
-http://s1.electru.biz:8080/live/shorty123/shorty123/51031.ts
-#EXTINF:-1,SPORTS | SONY ESPN HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51030.ts
-#EXTINF:-1,SPORTS | SONY SIX HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51028.ts
-#EXTINF:-1,SPORTS | STAR SPORTS 1 HINDI HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51040.ts
-#EXTINF:-1,SPORTS | STAR SPORTS 2 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51039.ts
-#EXTINF:-1,SPORTS | STAR SPORTS SELECT 1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51036.ts
-#EXTINF:-1,SPORTS | STAR SPORTS SELECT 2 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51035.ts
-#EXTINF:-1,SPORTS | TEN 1 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51027.ts
-#EXTINF:-1,SPORTS | TEN 2 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51026.ts
-#EXTINF:-1,SPORTS | TEN 3 HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51034.ts
-#EXTINF:-1,SPORTS | TEN GOLF HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/51033.ts
-#EXTINF:-1,TR | A SPOR HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/53661.ts
-#EXTINF:-1,TR | Bein Sport HD1
-http://s1.electru.biz:8080/live/shorty123/shorty123/53672.ts
-#EXTINF:-1,TR | Bein Sport HD2
-http://s1.electru.biz:8080/live/shorty123/shorty123/53671.ts
-#EXTINF:-1,TR | Bein Sport HD3
-http://s1.electru.biz:8080/live/shorty123/shorty123/53670.ts
-#EXTINF:-1,TR | Bein Sport HD4
-http://s1.electru.biz:8080/live/shorty123/shorty123/53669.ts
-#EXTINF:-1,TR | NTV SPOR HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/53662.ts
-#EXTINF:-1,TR | SMART SPOR HD1
-http://s1.electru.biz:8080/live/shorty123/shorty123/53666.ts
-#EXTINF:-1,TR | SMART SPOR HD2
-http://s1.electru.biz:8080/live/shorty123/shorty123/53665.ts
-#EXTINF:-1,TR | Tivibu Sport 1
-http://s1.electru.biz:8080/live/shorty123/shorty123/53668.ts
-#EXTINF:-1,TR | Tivibu Sport 2
-http://s1.electru.biz:8080/live/shorty123/shorty123/53667.ts
-#EXTINF:-1,TR | TRT SPOR HD
-http://s1.electru.biz:8080/live/shorty123/shorty123/53664.ts
-#EXTINF:-1,TR | TRT SPOR HD BKUP
-http://s1.electru.biz:8080/live/shorty123/shorty123/53663.ts
-#EXTINF:-1,AR: OSN Action
-http://mriptv.in:8080/live/alcino/alcino/95729.ts
-#EXTINF:-1,AR: OSN ACTION MOVIES HD
-http://mriptv.in:8080/live/alcino/alcino/89302.ts
-#EXTINF:-1,AR: OSN AD SPORTS 1 HD
-http://mriptv.in:8080/live/alcino/alcino/74671.ts
-#EXTINF:-1,AR: OSN Ad Sports 2 HD
-http://mriptv.in:8080/live/alcino/alcino/74672.ts
-#EXTINF:-1,AR: OSN AD SPORTS 3
-http://mriptv.in:8080/live/alcino/alcino/89300.ts
-#EXTINF:-1,AR: OSN AD SPORTS 4
-http://mriptv.in:8080/live/alcino/alcino/89301.ts
-#EXTINF:-1,AR: OSN Al SAFWA
-http://mriptv.in:8080/live/alcino/alcino/63342.ts
-#EXTINF:-1,AR: OSN AL Youm HD
-http://mriptv.in:8080/live/alcino/alcino/88761.ts
-#EXTINF:-1,AR: OSN ALKASS SPORT 1
-http://mriptv.in:8080/live/alcino/alcino/89303.ts
-#EXTINF:-1,AR: OSN ALKASS SPORT 2
-http://mriptv.in:8080/live/alcino/alcino/89304.ts
-#EXTINF:-1,AR: OSN Alkass Sport 3
-http://mriptv.in:8080/live/alcino/alcino/95723.ts
-#EXTINF:-1,AR: OSN ALKASS SPORT 4
-http://mriptv.in:8080/live/alcino/alcino/89305.ts
-#EXTINF:-1,AR: OSN Alkass Sport 5
-http://mriptv.in:8080/live/alcino/alcino/95724.ts
-#EXTINF:-1,AR: OSN ANIMAL PLANET HD
-http://mriptv.in:8080/live/alcino/alcino/88763.ts
-#EXTINF:-1,AR: OSN Arabic Al Yawm
-http://mriptv.in:8080/live/alcino/alcino/63276.ts
-#EXTINF:-1,AR: OSN ART Aflam 1
-http://mriptv.in:8080/live/alcino/alcino/63341.ts
+#EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/11/Al-Mayadeen.jpg", Al Mayadeen
+http://live.mdn.tv/al-mayadeen/smil:mayadeen.smil/chunklist_w866509900_b1100000.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/752874088348131328/z27OYWkw.jpg", Almanar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg", LB2
+https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://www.lbcgroup.tv/images/fb-default.jpg", LBC International
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1, tvg-logo="https://www.lbcgroup.tv/images/fb-default.jpg", LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1, tvg-logo="https://www.thematv.com/medias/channels/murr-tv/murr-tv.jpg", mtv
+http://185.27.116.54:1935/live/vtm/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.jpg", Al Araby TV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1100000.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/703867707318374400/zHFerbz0.jpg", Al Jazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-9vV1az7ZvjE/AAAAAAAAAAI/AAAAAAAAAAA/nQi6XVOACwc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", AL JAZEERA Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1, tvg-logo="http://s1.dmcdn.net/JT9px/240x240-rLw.jpg", Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1, tvg-logo="https://cdn.almasdarnews.com/wp-content/uploads/2016/04/al-jazeera-logo.jpeg", AL JAZEERA English
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/n6POgCIDWUo/maxresdefault.jpg", Mekameleen
+http://mn-l.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist_w1882761024_b2500000.m3u8
+#EXTINF:-1, tvg-logo="http://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg", Watan TV
+http://188.166.3.79:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://www.tribunejuive.info/wp-content/uploads/2013/12/i24.png", i24 News Arabic
+https://stream-06.ix7.dailymotion.com/43/dm/3/x2uafpp/live-2.m3u8
+#EXTINF:-1, tvg-logo="http://www.tribunejuive.info/wp-content/uploads/2013/12/i24.png", i24 News English
+https://stream-06.ix7.dailymotion.com/47/dm/3/x29atae/live-2.m3u8
+#EXTINF:-1, tvg-logo="http://www.baqiworld.com/wp-content/uploads/2015/11/gai-msnbc-logo-300x300.gif", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="http://is4.mzstatic.com/image/thumb/Purple128/v4/22/57/30/225730ce-81bb-084b-14b9-719551b1a1df/source/1200x630bb.jpg", CBS News
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+#EXTINF:-1, tvg-logo="https://arabic.rt.com/static/blocks/logo/logo-og.png", RT Arabic
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+#EXTINF:-1, tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif", DW
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/Jordan-TV.jpg", Jordan
+http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/Jordan-TV.jpg", الأردن اليوم
+http://185.27.116.54:1935/live/ALordonAlyoom/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-DOl0UDDEcM0/AAAAAAAAAAI/AAAAAAAAAAA/nGwd0P6c9ZU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", رؤيا
+http://185.27.116.54:1935/live/Roya/chunklist_w1710721493.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-MS8yJHTBBd8/AAAAAAAAAAI/AAAAAAAAAAA/aPZP9ZDraSA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/562375849388032000/Cuxjmsx5.png", BBC Arabia
+http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/chunklist_b864000.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="https://d1f50sy93kjhlx.cloudfront.net/433dec89-2730-49dc-b455-b6cfb7f2ed7f.jpg",الفضائية السورية
+http://82.137.248.16:1935/Sat/SatLive1/chunklist_w123188051.m3u8
+#EXTINF:-1, tvg-logo="http://www.livetvswatch.com/uploads/syria-drama-tv-live-from-syria-1458407756.jpg", سوريا دراما
+http://selevision9876-i.akamaihd.net/hls/live/219116/98768/1.m3u8?v=3582097846
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/nqR5DL4JpyA/hqdefault.jpg", الإخبارية السورية
+http://82.137.248.16:1935/Snews/SnewsLive3/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/14687/logo_sama%20tv%20%7C%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%B3%D9%85%D8%A7.png", سما
+http://sama-tv.net:1935/live/samatv/chunklist_w2119419508.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="http://www.3arablive.com/wp-content/uploads/2013/06/nour-sham.jpg", نور الشام
+http://82.137.248.21:1935/Nour/NourLive3/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://d1vp67uoekhr1v.cloudfront.net/res/gz/img/arlive0411151100/logo.png", حلب اليوم
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1363570225.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg", القناة
+https://59984ff4d6f5f.streamlock.net/live/smil:alqanat9.smil/chunklist_w117615741_b1128000_sleng.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg", ANN
+http://ns8.indexforce.com:1935/ann/ann/chunklist_w1129856728.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/pal.png", فلسطين
+http://htv.mada.ps:8888/PBC/PBC/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/Mobasher.png", فلسطين مباشر
+http://htv.mada.ps:8888/PBCLive/PBCLive/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/48.png", مساواة
+http://htv.mada.ps:8888/Musawa/Musawa/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/818108165736763396/iPRDluoQ.jpg", الأقصى
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://photosarab.com/wp-content/uploads/a6Z1WcFq.jpg", الفلسطينية
+http://htv.mada.ps:8888/ftv/ftv/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-EgXvEd-WG8g/AAAAAAAAAAI/AAAAAAAAAAA/PGldiHLfwsA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", كل الناس
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://www.shahidhd.tv/video/uploads/thumbs/be71fc53c-1.jpg", قناة أجيال
+http://w2.mada.ps:1935/ajyal/livestreamm/chunklist_w1602224450.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-ylE5ITup5k0/VYPLDcv_q9I/AAAAAAAAAD8/8V_s4uRlFcM/s1600/1434545996076.jpg", فضائية النجاح
+http://htv.mada.ps:8888/Najah/Najah/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-0hW88PQuanI/AAAAAAAAAAI/AAAAAAAAAAA/iOEX_Cw7JKo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", السلام
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG", RAYA TV
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/Sama-Icon.png", سما دبي
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/dubaialoula-live1.png", DUBAI
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/dubaione171.png", DUBAI One
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png", DUBAI Racing
+http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png", DUBAI Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/noordubai171.png", NOOR DUBAI
+http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8?stime=20171119223716&etime=20171127023356&token=042da50857e51c7a26a1b
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/dubaisports_3.png", دبي الرياضية
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8?stime=20171119223931&etime=20171127023611&token=09ad2c3dbbfd2aa042e96
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/dubaizaman171.png", دبي زمان
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:-1, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/alaantvlive.png", الآن
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1, tvg-logo="https://bhariz.com/wp-content/uploads/2017/09/3y91ozb-.png", أبو ظبي
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/843733487844757504/K9tX0ePo.jpg", أبو ظبي دراما
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:-1, tvg-logo="http://almanara-magazine.com/wp-content/uploads/2016/11/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg",  الامارات
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+#EXTINF:-1, tvg-logo="https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg", National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1, tvg-logo="https://static.livetvhd.net/thumbs/Abu-Dhabi-Sports-1.jpg", Abu Dhabi Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_abu_dhabi_sports_ae_2.png", Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/saudia.png", السعودية
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/1.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/ekhbariya.png", الإخبارية
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel3/Index1400.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/saud2.png", Saudi 2
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/Index1400.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/thaqafiya.png", الثقافية
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/1.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/riyadiya.png", الرياضية
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/eqtisadiya.png", الإقتصادية
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/sounna.png", السنة النبوية
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/quraan.png", القرآن الكريم
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
+#EXTINF:-1, tvg-logo="http://www.stv.sa/img/tv_and_radio/ajyal.jpg", أجيال
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/666521957949710336/8no5XF1F.png", مصدر
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/818820656687120386/QHuE_1yq.jpg", العربية
+http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8?v=85851628
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/818821066617393152/jCjo7DqP.jpg", الحدث
+https://live.alhadath.net/hadath/myStream/chunklist.m3u8?sds
+#EXTINF:-1, tvg-logo="http://frequencyme.com/wp-content/uploads/2017/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-qatar-tv.jpg", قطر
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_299s12.m3u8
+#EXTINF:-1, tvg-logo="http://www.elahmad.com/tv/images/skynewsarabia.jpg", سكاي نيوز
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1, tvg-logo="http://somecontrast.com/blog/wp-content/uploads/2010/10/alrai-logo.png", Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png", KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg", KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-vpIDPhNWc_A/WVJNZO2PBdI/AAAAAAAAHek/wKQQcJr_E3sUtpsIFaGuweEXRLi2wMB9wCLcBGAs/s1600/ktv_sport_plus.png", KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/3782604/logo_ktv%20al%20arabi.png", KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://masr140.net/wp-content/uploads/2017/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86-2017.jpg", KTV Al Qurain
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/789507532532383745/keASEPNQ.jpg", KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/HjUKzWduOrZIDwgsb7X84oc4wsdCUIrv8fhCYjihrUaDyDNs4BlO7K7D5woghn7-PmE=w300", Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-ui2koyKaxSE/AAAAAAAAAAI/AAAAAAAAAAA/KRyZZgKlLW4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/688937048934363136/UW9qewGi.png", Oman Education
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/14642/logo_oman%20sport%20tv%20%7C%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%B9%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%20.png", Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/UjPHuUr4GJo/hqdefault.jpg", TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-oICjx_KdmHE/WPKnQk28R9I/AAAAAAAAFJo/WmS7lopmUqEjzs2LeC7Qbsz4D6DDKVPyACLcB/s1600/arabica_tv_lb.png", Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/24653/logo_hawacom.png", Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg", وناسة
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+#EXTINF:-1, tvg-logo="http://alzawraapaper.com/wp-content/uploads/2015/06/logo-copy-Copy.jpg", الرشيد
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1, tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826201634_channelsbig.png", الشرقية
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://is5.mzstatic.com/image/thumb/Purple69/v4/c9/20/e2/c920e247-158c-2241-735e-0d7947c3cdf7/source/1200x630bb.jpg", Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0,Gali Kurd Silemani
+http://217.182.206.32/hls/channel_a_high.m3u8
+#EXTINF:0,NRT Arabic HD
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/354.ts
+#EXTINF:0,NRT1­_HD
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
+#EXTINF:0,Rudaw TV HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0,NRT2 Sorani HD
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+#EXTINF:0,Nishtimany Mn
+http://smart-hdip.com:8000/live/Reda/Reda/9370.m3u8
+#EXTINF:0,GK Hawler
+http://smart-hdip.com:8000/live/Reda/Reda/1022.m3u8
+#EXTINF:0,UTV Slemani
+http://smart-hdip.com:8000/live/Reda/Reda/9368.m3u8
+#EXTINF:0,Falcon TV
+http://smart-hdip.com:8000/live/Reda/Reda/211.m3u8
+#EXTINF:0,Falcon eye HD
+http://smart-hdip.com:8000/live/Reda/Reda/1999.m3u8
+#EXTINF:0,Falcon Family HD
+http://smart-hdip.com:8000/live/Reda/Reda/1016.m3u8
+#EXTINF:0,NRT1 HD
+http://nrttv.iptv-playoutcenter.de:1935/nrt1/nrt1.stream_3/playlist.m3u8
+#EXTINF:0,N.R.T_HD
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt1/_definst_/mp4:nrt1.stream_1
+#EXTINF:-1 tvg-logo="http://imgur.com/ILvGJRE.png" group-title="Filmes e Séries",Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+#EXTINF:-1 tvg-logo="http://forounivers.com/index.php?/gallery/image/320-fox-cinema/&do=download" group-title="Filmes e Séries",Fox Cinema
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="Filmes e Séries",Fox Classics
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="Filmes e Séries",Fox Comedy
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/fictionaltvstations/images/2/2b/Fox_Family.jpg" group-title="Filmes e Séries",Fox Family
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgur.com/V7JpoFu.png" group-title="Filmes e Séries",Fox Life
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" group-title="Filmes e Séries",Fox Movies
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782310/logo_fox%20series.png" group-title="Filmes e Séries",Fox Series
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="Filmes e Séries", DESTAK
+http://172.93.110.130:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/320px-CINE%2B_-_LOGO.png" pltv-subgroup="Filmes e Séries",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" pltv-subgroup="Filmes e Séries",Studio Universal
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvseriesfinale.com/wp-content/uploads/2015/11/fox14.png" group-title="Filmes e Séries", Fox SD
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="Filmes e Séries",Cine Sky
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+#EXTINF:-1 tvg-logo="http://diamundialpoesia.files.wordpress.com/2011/03/el33_logo2001.png" group-title="Filmes e Séries", A3 LATINO
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on?AndreOid
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png"group-title="Filmes e Séries",CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.vodafone.pt/NR/rdonlyres/DECE6C2A-7AEF-47BB-A0A2-452D61546683/0/Logo_TVCineeSeries_Vodaf_449x196px.jpg" group-title="Filmes e Séries",TV CINE (01)
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="Filmes e Séries", Cine On Demand
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
+#EXTINF:-1 tvg-logo="http://s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="Filmes e Séries", Cine Filmes
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="Filmes e Séries", Cine Filmes 2
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 tvg-logo="http://s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="Filmes e Séries", Cine Filmes 3
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="Filmes e Séries", Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1,AD Sport HD2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=3157566659
+#EXTINF:-1,BRAEM
+http://199.167.151.237:1935/live/sp15_35.stream/chunklist_w1531541393.m3u8
+#EXTINF:-1,ABU D SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ABU D SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ABU D SPORT
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,BEIN 1
+http://www.elahmad.com/tv/m3u8/l7.m3u8?id=00199
+#EXTINF:-1,BRAEM
+http://199.167.151.237:1935/live/sp15_35.stream/chunklist_w1531541393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One **
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman *
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai *
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV *
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama *
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma *
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/noor-dubai-tv-logo.jpeg" group-title="UAE",Nour Dubai *
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.watchallchannels.com/wp-content/uploads/2015/02/Aljazeera-arabic.jpg" group-title="QATAR",Al Jazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livestreamyoutube.com/wp-content/uploads/2016/05/aljaziretv.jpg" group-title="QATAR",Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports *
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1 *
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="KUWAIT",KTV 2 *
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="KUWAIT",KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="KUWAIT",KTV Ethraa
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img63.jpg" group-title="KUWAIT",KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wakeplay.net/wp-content/uploads/2016/06/kuwaittvplus.jpg" group-title="KUWAIT",KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.etere.com/DocImageArchive/636174029839741716.jpg" group-title="KUWAIT",KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/oman_live.png" group-title="OMAN",Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png" group-title="OMAN",Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="OMAN",Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1  tvg-id=
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:-1  tvg-id=
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+#EXTINF:-1  tvg-id=
+http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8 
+#EXTINF:-1  tvg-id=
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/2w2h8gw.jpg" group-title="LEBANON",Al Maaref
+http://almaareftv.com:1935/live/12/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/IFILMARABIC-150x150.png" group-title="IRAN",iFilm (Arabic)
+http://178.32.255.199:1935/live/ifilmar/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="KSA",Iqraa
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ariase.com/media/television/logo-132x99/iqraa-international.jpg" group-title="KSA",Iqraa International
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" group-title="SYRIA",Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El Sham
+http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El Sham *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+#EXTINF:-1 tvg-logo="http://www.expatesco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
+http://84.244.187.12:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/581085560435023872/UPv58fOV.png" group-title="KURDISTAN",NewLine TV
+http://kurd-live.com:1935/live/new/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="KURDISTAN",NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/nrt2-large.jpg" group-title="KURDISTAN",NRT 2
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/470729064_1280x720.jpg" group-title="KURDISTAN",Speda Channel
+http://kurd-live.com:1935/live/speda/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="KURDISTAN",TRT Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
+http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/files/19-05-2016-e4029549-utv-kurdtvs.png" group-title="KURDISTAN",UTV Hawler
+http://kurd-live.com:1935/live/utv/chunklist_w1553125784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
+http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,Christian: Kingdom TV
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="EGYPT",Al Hayat 2
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.duzicimuftulugu.gov.tr/resimler/bag/1cf553078842fce52c1d2edebaa51f69.jpg" group-title="TURKEY",TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,COLOR VISION 9
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w1799316170.m3u8
+#EXTINF:-1,
+https://r5---sn-8xgp1vo-xfgd.googlevideo.com/videoplayback?sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&requiressl=yes&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&source=youtube&dur=158.658&lmt=1512188912207971&clen=8180026&gir=yes&initcwndbps=1433750&signature=10D324F9D8EEAA241ABCB2221FD24412A5199B39.D76CFBDACEF99602B2A5166CCC5C61FA4FDCD61D&ei=dbEyWoH6IYTN8wSTrr3wAw&expire=1513293269&mime=video%2Fwebm&key=yt6&ms=au&mt=1513271567&mv=m&id=o-AHn6P1TeWsp9VAgdGbfzIufR28asX7f3ulfNllxZUVSt&pl=17&keepalive=yes&ipbits=0&itag=243&mm=31&ip=72.89.112.39&mn=sn-8xgp1vo-xfgd&alr=yes&cpn=XH0mErJChSjPomCZ&c=WEB_EMBEDDED_PLAYER&cver=20171213&rn=0
+#EXTINF:-1,LUNA TV 53
+http://qs1.distream.net:2140/luna_str/lunatv/chunklist_w1933895988.m3u8
+#EXTINF:-1,TELEFUTURO 23
+http://qs1.distream.net:2112/tf_str/futu/chunklist_w884524576.m3u8
+#EXTINF:-1,X-TREMO TV
+http://extremo01.streamprolive.com/hls/live_high.m3u8
+#EXTINF:-1,TELEMEDIOS 25
+http://qs1.distream.net:2126/c25_str/canal25/chunklist_w2099711207.m3u8
+#EXTINF:-1,TELEANTILLAS 2
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w166413810_DVR.m3u8
 #EXTINF:-1,AR: OSN ART Aflam 2
 http://mriptv.in:8080/live/alcino/alcino/63340.ts
 #EXTINF:-1,AR: OSN ART Cinema
