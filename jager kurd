@@ -25,12 +25,6 @@ http://176.9.139.53/BeinSportHD11/index.m3u8
 http://176.9.139.53/BeinSportHD12/index.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/752874088348131328/z27OYWkw.jpg", Almanar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg", LB2
-https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.lbcgroup.tv/images/fb-default.jpg", LBC International
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1, tvg-logo="https://www.lbcgroup.tv/images/fb-default.jpg", LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1, tvg-logo="https://www.thematv.com/medias/channels/murr-tv/murr-tv.jpg", mtv
 http://185.27.116.54:1935/live/vtm/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Future TV
