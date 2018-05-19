@@ -104,8 +104,6 @@ http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5116.ts
 #EXTVLCOPT:http-user-agent=tvingo.tvingoplus.01.04.18.R.A.K.A
 #EXTINF:-1,AR SPORT: beIN Sports HD 12
 http://notv.tk:8880/live/Tvingoplus_Bein/lQ2DbR4fEsO/5115.ts
-#EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/11/Al-Mayadeen.jpg", Al Mayadeen
-http://live.mdn.tv/al-mayadeen/smil:mayadeen.smil/chunklist_w866509900_b1100000.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/752874088348131328/z27OYWkw.jpg", Almanar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/C23POH8WQAICI4h.jpg", LB2
