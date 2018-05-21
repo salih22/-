@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,jager kurd subscribe
+https://www.youtube.com/watch?v=o_FQ25zXSsI
 #EXTINF:-1,BeINSPORTS 1HD
 http://176.9.139.53/BeinSportHD1/index.m3u8
 #EXTINF:-1,BeINSPORTS 2HD
@@ -23,6 +25,62 @@ http://176.9.139.53/BeinSportHD10/index.m3u8
 http://176.9.139.53/BeinSportHD11/index.m3u8
 #EXTINF:-1,beINSPORTS 12HD
 http://176.9.139.53/BeinSportHD12/index.m3u8
+#EXTINF:-1,BEINSPORT 1Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/627.ts
+#EXTINF:-1,BEINSPORT 2Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/626.ts
+#EXTINF:-1,BEINSPORT 3Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/625.ts
+#EXTINF:-1,BEINSPORT 4Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/624.ts
+#EXTINF:-1,BEINSPORT 5Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/623.ts
+#EXTINF:-1,BEINSPORT 6Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/622.ts
+#EXTINF:-1,BEINSPORT 7Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/621.ts
+#EXTINF:-1,BEINSPORT 8Low
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/620.ts
+#EXTINF:-1,AR:BEINSPORTS-1 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1.ts
+#EXTINF:-1,AR:BEINSPORTS-2 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/2.ts
+#EXTINF:-1,AR:BEINSPORTS-3 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/3.ts
+#EXTINF:-1,AR:BEINSPORTS-4 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/4.ts
+#EXTINF:-1,AR:BEINSPORTS-5 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/5.ts
+#EXTINF:-1,AR:BEINSPORTS-6 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/6.ts
+#EXTINF:-1,AR:BEINSPORTS-7 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/7.ts
+#EXTINF:-1,AR:BEINSPORTS-8 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/8.ts
+#EXTINF:-1,AR:BEINSPORTS-9 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/9.ts
+#EXTINF:-1,AR:BEINSPORTS-10 HD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/249.ts
+#EXTINF:-1,AR:BEINSPORTS-1 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1130.ts
+#EXTINF:-1,AR:BEINSPORTS-2 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1129.ts
+#EXTINF:-1,AR:BEINSPORTS-3 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1128.ts
+#EXTINF:-1,AR:BEINSPORTS-4 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1127.ts
+#EXTINF:-1,AR:BEINSPORTS-5 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1126.ts
+#EXTINF:-1,AR:BEINSPORTS-6 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1125.ts
+#EXTINF:-1,AR:BEINSPORTS-7 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1124.ts
+#EXTINF:-1,AR:BEINSPORTS-8 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1123.ts
+#EXTINF:-1,AR:BEINSPORTS-9 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1122.ts
+#EXTINF:-1,AR:BEINSPORTS-10 SD
+http://arabapps.live:8000/live/mobachir888/dgdfhfghfg/1121.ts
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/752874088348131328/z27OYWkw.jpg", Almanar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thematv.com/medias/channels/murr-tv/murr-tv.jpg", mtv
