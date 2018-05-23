@@ -1299,3 +1299,73 @@ http://extremo01.streamprolive.com/hls/live_high.m3u8
 http://qs1.distream.net:2126/c25_str/canal25/chunklist_w2099711207.m3u8
 #EXTINF:-1,TELEANTILLAS 2
 http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w166413810_DVR.m3u8
+#EXTINF:-1,Sky Virgin Music TV
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/367.ts
+#EXTINF:-1,Sky Uno HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/254.ts
+#EXTINF:-1,Sky TG 24 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/340.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/308.ts
+#EXTINF:-1,Sky Sport Plus
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/294.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/288.ts
+#EXTINF:-1,Sky Sport Mix
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/282.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/287.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/286.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/283.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/285.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/284.ts
+#EXTINF:-1,Sky Classica
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/280.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/239.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/236.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/237.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/235.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/240.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/238.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/241.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/232.ts
+#EXTINF:-1,Sky Cinema  24 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/234.ts
+#EXTINF:-1,Sky Cinema  1 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/233.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/207.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/206.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/205.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/314.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/313.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/312.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/311.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/310.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/208.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/309.ts
+#EXTINF:-1,Sky Atlantic HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/255.ts
+#EXTINF:-1,Sky Arte HD
+http://54.36.51.204:7711/live/iF629LWOgx3sIP8/zRmA8Pn6rQzNGJn/339.ts
