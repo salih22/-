@@ -1287,8 +1287,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,COLOR VISION 9
 http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w1799316170.m3u8
-#EXTINF:-1,
-https://r5---sn-8xgp1vo-xfgd.googlevideo.com/videoplayback?sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&requiressl=yes&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&source=youtube&dur=158.658&lmt=1512188912207971&clen=8180026&gir=yes&initcwndbps=1433750&signature=10D324F9D8EEAA241ABCB2221FD24412A5199B39.D76CFBDACEF99602B2A5166CCC5C61FA4FDCD61D&ei=dbEyWoH6IYTN8wSTrr3wAw&expire=1513293269&mime=video%2Fwebm&key=yt6&ms=au&mt=1513271567&mv=m&id=o-AHn6P1TeWsp9VAgdGbfzIufR28asX7f3ulfNllxZUVSt&pl=17&keepalive=yes&ipbits=0&itag=243&mm=31&ip=72.89.112.39&mn=sn-8xgp1vo-xfgd&alr=yes&cpn=XH0mErJChSjPomCZ&c=WEB_EMBEDDED_PLAYER&cver=20171213&rn=0
 #EXTINF:-1,LUNA TV 53
 http://qs1.distream.net:2140/luna_str/lunatv/chunklist_w1933895988.m3u8
 #EXTINF:-1,TELEFUTURO 23
@@ -1299,3 +1297,63 @@ http://extremo01.streamprolive.com/hls/live_high.m3u8
 http://qs1.distream.net:2126/c25_str/canal25/chunklist_w2099711207.m3u8
 #EXTINF:-1,TELEANTILLAS 2
 http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w166413810_DVR.m3u8
+#EXTINF:-1,SuperTennis
+http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
+#EXTINF:-1,Arena Sport 2 HR Добавляйтесь https://vk.com/free_tv_007
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
+#EXTINF:-1,Arena Sport 3 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
+#EXTINF:-1,Arena Sport 5 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
+#EXTINF:-1,SK 1 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
+#EXTINF:-1,SK 2 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
+#EXTINF:-1,SK 3 HR Добавляйтесь https://vk.com/free_tv_007
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://sport7.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
+#EXTINF:-1,Arena Sport 3 SRP
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
+#EXTINF:-1,Arena Sport 5 SRP Добавляйтесь https://vk.com/free_tv_007
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
+#EXTINF:-1,SK 1 SRP
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
+#EXTINF:-1,SK 2 SRP
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
+#EXTINF:-1,SK 3 HR
+http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
+#EXTINF:-1,SuperTennis Добавляйтесь https://vk.com/free_tv_007
+http://sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://sport7.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
+#EXTINF:-1,SuperTennis
+http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
+#EXTINF:-1,Arena Sport 3 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
+#EXTINF:-1,Arena Sport 5 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
+#EXTINF:-1,SK 1 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
+#EXTINF:-1,SK 2 SRP
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
+#EXTINF:-1,SK 3 HR
+http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
