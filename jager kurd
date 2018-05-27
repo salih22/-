@@ -1,30 +1,59 @@
 #EXTM3U
 #EXTINF:-1,jager kurd subscribe
 https://www.youtube.com/watch?v=o_FQ25zXSsI
-#EXTINF:-1,BeINSPORTS 1HD
-http://176.9.139.53/BeinSportHD1/index.m3u8
-#EXTINF:-1,BeINSPORTS 2HD
-http://176.9.139.53/BeinSportHD2/index.m3u8
-#EXTINF:-1,BeINSPORTS 3HD
-http://176.9.139.53/BeinSportHD3/index.m3u8
-#EXTINF:-1,BeINSPORTS 4HD
-http://176.9.139.53/BeinSportHD4/index.m3u8
-#EXTINF:-1,BeINSPORTS 5HD
-http://176.9.139.53/BeinSportHD5/index.m3u8
-#EXTINF:-1,BeINSPORTS 6HD
-http://176.9.139.53/BeinSportHD6/index.m3u8
-#EXTINF:-1,BeINSPORTS 7HD
-http://176.9.139.53/BeinSportHD7/index.m3u8
-#EXTINF:-1,BeINSPORTS 8HD
-http://176.9.139.53/BeinSportHD8/index.m3u8
-#EXTINF:-1,BeINSPORTS 9HD
-http://176.9.139.53/BeinSportHD9/index.m3u8
-#EXTINF:-1,BeINSPORTS 10HD
-http://176.9.139.53/BeinSportHD10/index.m3u8
-#EXTINF:-1,BeINSPORTS 11HD
-http://176.9.139.53/BeinSportHD11/index.m3u8
-#EXTINF:-1,beINSPORTS 12HD
-http://176.9.139.53/BeinSportHD12/index.m3u8
+#EXTINF:-1,www.janberyan.com
+#EXTINF:-1,Real Madrid vs Liverpool 1
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1102.ts
+#EXTINF:-1,Real Madrid vs Liverpool 2
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1103.ts
+#EXTINF:-1,Real Madrid vs Liverpool 3
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1104.ts
+#EXTINF:-1,Real Madrid vs Liverpool 4
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1105.ts
+#EXTINF:-1,Real Madrid vs Liverpool 5
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1106.ts
+#EXTINF:-1,Real Madrid vs Liverpool 6
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1107.ts
+#EXTINF:-1,Real Madrid vs Liverpool 7
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1108.ts
+#EXTINF:-1,Real Madrid vs Liverpool 8
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1109.ts
+#EXTINF:-1,Real Madrid vs Liverpool 9
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1110.ts
+#EXTINF:-1,Real Madrid vs Liverpool 10
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1111.ts
+#EXTINF:-1,Real Madrid vs Liverpool 11
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1112.ts
+#EXTINF:-1,Real Madrid vs Liverpool 12
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1113.ts
+#EXTINF:-1,Real Madrid vs Liverpool 13
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1114.ts
+#EXTINF:-1,Real Madrid vs Liverpool 14
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1115.ts
+#EXTINF:-1,Real Madrid vs Liverpool 15
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1116.ts
+#EXTINF:-1,Real Madrid vs Liverpool 16
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1117.ts
+#EXTINF:-1,Real Madrid vs Liverpool 17
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1118.ts
+#EXTINF:-1,Real Madrid vs Liverpool 18
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1119.ts
+#EXTINF:-1,Real Madrid vs Liverpool 19
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1120.ts
+#EXTINF:-1,Real Madrid vs Liverpool 20
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1121.ts
+#EXTINF:-1,Real Madrid vs Liverpool 21
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1122.ts
+#EXTINF:-1,Real Madrid vs Liverpool 22
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1123.ts
+#EXTINF:-1,Real Madrid vs Liverpool 23
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1124.ts
+#EXTINF:-1,Real Madrid vs Liverpool 24
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1125.ts
+#EXTINF:-1,Real Madrid vs Liverpool 25
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1126.ts
+#EXTINF:-1,Real Madrid vs Liverpool 26
+http://iptv-janberyan.cf:8888/live/janberyan_l2vdc4i8/n5jez8zm/1127.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lpmub25.png" group-title="NEWS",Al Mayadeen (Lebanon)
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="NEWS",ANN (Syria)
